@@ -1,0 +1,15 @@
+
+div.itsme {
+  background-color: burlywood;
+  color: rgb(3, 3, 67);
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+div.titel {
+    background-color: gray;
+    color: rgb(3, 3, 67);
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+  }
